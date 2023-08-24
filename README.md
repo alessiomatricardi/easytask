@@ -1,3 +1,3 @@
 # EasyTask
 
-## Simple task manager powered by Spring Boot microservices and ReactJSs
+## Simple task manager powered by Spring Boot microservices and ReactJS
